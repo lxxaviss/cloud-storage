@@ -1,0 +1,27 @@
+# 🌿 Environment variables
+.env
+
+# 🐳 Docker files
+docker-compose.yml
+Dockerfile
+**/docker-compose.yml
+**/Dockerfile
+
+# ⚙️ Build and dependency files
+build.gradle
+pom.xml
+
+# 🧠 Server main file
+server.java
+
+# 🗂️ Node/Java build outputs
+node_modules/
+target/
+build/
+out/
+
+# 🧰 IDE / OS junk
+.idea/
+.vscode/
+*.iml
+.DS_Store
