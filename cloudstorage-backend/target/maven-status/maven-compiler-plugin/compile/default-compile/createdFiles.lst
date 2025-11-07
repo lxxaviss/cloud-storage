@@ -1,0 +1,17 @@
+com\cloudstorage\entity\PaymentStatus.class
+com\cloudstorage\entity\Payment.class
+com\cloudstorage\service\AuthService.class
+com\cloudstorage\entity\Plan.class
+com\cloudstorage\entity\AdminLog.class
+com\cloudstorage\service\AdminService.class
+com\cloudstorage\entity\Session.class
+com\cloudstorage\repository\UserRepository.class
+com\cloudstorage\entity\UserStatus.class
+com\cloudstorage\repository\FileRepository.class
+com\cloudstorage\entity\FileEntity.class
+com\cloudstorage\entity\User.class
+com\cloudstorage\controller\AdminController.class
+com\cloudstorage\entity\Role.class
+com\cloudstorage\controller\AuthController.class
+com\cloudstorage\CloudstorageBackendApplication.class
+com\cloudstorage\repository\AdminLogRepository.class
